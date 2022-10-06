@@ -1,6 +1,6 @@
 FROM python:latest
 
-WORKDIR /usr/src/app
+WORKDIR /my-app
 
 
 RUN pip3 install
